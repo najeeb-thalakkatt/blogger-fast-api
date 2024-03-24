@@ -11,8 +11,8 @@ This blogging platform is a modern web application built with FastAPI and Postgr
 1. **Clone the Repository**
 
    ```bash
-   git clone https://your-repository-url.git
-   cd your-repository-directory
+   git clone https://github.com/najeeb-thalakkatt/blogger-fast-api
+   cd blogger-fast-api
    ```
 2. **Build and Run with Docker Compose**
 
